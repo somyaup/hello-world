@@ -1,2 +1,3 @@
 # hello-world
-First repository
+First repository 
+Quick brown fox jumps over the lazy dog
